@@ -1,0 +1,51 @@
+VQE Experiment Summary
+=====================
+
+Date: 03_27
+Backend: ibm_brisbane
+Schedule type: CTT_single
+Run time: 80.72 seconds
+
+Results
+-------
+Final energy: -0.41101796
+Best energy: -0.85399282 (iteration 286, cycle 4, iteration 70 in cycle)
+
+Cycle Information
+----------------
+Cycle 1: ESP=0.7018, Mapping=[20, 33, 22, 21]
+  Start energy: -0.01462928
+  End energy: -0.65531201
+  Best energy: -0.66664037 (global iteration 67)
+  Improvement: 0.65201109
+
+Cycle 2: ESP=0.7867, Mapping=[66, 73, 65, 67]
+  Start energy: -0.26809151
+  End energy: -0.56057478
+  Best energy: -0.56057478 (global iteration 144)
+  Improvement: 0.29248327
+
+Cycle 3: ESP=0.8829, Mapping=[65, 73, 66, 85]
+  Start energy: -0.38938645
+  End energy: -0.64149464
+  Best energy: -0.70594735 (global iteration 214)
+  Improvement: 0.31656090
+
+Cycle 4: ESP=0.8840, Mapping=[73, 66, 85, 86]
+  Start energy: -0.59396573
+  End energy: -0.83848621
+  Best energy: -0.85399282 (global iteration 286)
+  Improvement: 0.26002709
+
+Cycle 5: ESP=0.7867, Mapping=[66, 73, 65, 67]
+  Start energy: -0.37232679
+  End energy: -0.52125539
+  Best energy: -0.52125539 (global iteration 360)
+  Improvement: 0.14892860
+
+Cycle 6: ESP=0.7137, Mapping=[73, 66, 67, 85]
+  Start energy: -0.38943829
+  End energy: -0.41101796
+  Best energy: -0.42212300 (global iteration 414)
+  Improvement: 0.03268471
+

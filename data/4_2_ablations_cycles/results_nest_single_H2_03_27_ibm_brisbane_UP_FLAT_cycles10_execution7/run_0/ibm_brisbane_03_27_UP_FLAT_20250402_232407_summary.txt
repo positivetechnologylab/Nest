@@ -1,0 +1,75 @@
+VQE Experiment Summary
+=====================
+
+Date: 03_27
+Backend: ibm_brisbane
+Schedule type: UP_FLAT
+Run time: 67.84 seconds
+
+Results
+-------
+Final energy: -1.02255417
+Best energy: -1.04559540 (iteration 335, cycle 8, iteration 34 in cycle)
+
+Cycle Information
+----------------
+Cycle 1: ESP=0.7018, Mapping=[20, 33, 22, 21]
+  Start energy: -0.26279016
+  End energy: -0.42820831
+  Best energy: -0.48095762 (global iteration 41)
+  Improvement: 0.21816746
+
+Cycle 2: ESP=0.7581, Mapping=[33, 19, 20, 21]
+  Start energy: -0.21926418
+  End energy: -0.40041522
+  Best energy: -0.41047963 (global iteration 71)
+  Improvement: 0.19121545
+
+Cycle 3: ESP=0.8141, Mapping=[33, 20, 21, 22]
+  Start energy: -0.44675281
+  End energy: -0.63957090
+  Best energy: -0.65559602 (global iteration 126)
+  Improvement: 0.20884321
+
+Cycle 4: ESP=0.8974, Mapping=[20, 21, 22, 23]
+  Start energy: -0.68142697
+  End energy: -0.96751320
+  Best energy: -0.96751320 (global iteration 172)
+  Improvement: 0.28608623
+
+Cycle 5: ESP=0.9011, Mapping=[19, 20, 21, 22]
+  Start energy: -0.97507992
+  End energy: -0.95805933
+  Best energy: -0.97872460 (global iteration 199)
+  Improvement: 0.00364468
+
+Cycle 6: ESP=0.9039, Mapping=[18, 19, 20, 21]
+  Start energy: -0.97632116
+  End energy: -0.94309377
+  Best energy: -0.97744261 (global iteration 225)
+  Improvement: 0.00112145
+
+Cycle 7: ESP=0.9011, Mapping=[19, 20, 21, 22]
+  Start energy: -0.95199118
+  End energy: -1.00323816
+  Best energy: -1.00323816 (global iteration 301)
+  Improvement: 0.05124698
+
+Cycle 8: ESP=0.9039, Mapping=[18, 19, 20, 21]
+  Start energy: -1.00573480
+  End energy: -1.03765209
+  Best energy: -1.04559540 (global iteration 335)
+  Improvement: 0.03986060
+
+Cycle 9: ESP=0.9011, Mapping=[19, 20, 21, 22]
+  Start energy: -1.02937392
+  End energy: -1.01927833
+  Best energy: -1.03401794 (global iteration 356)
+  Improvement: 0.00464402
+
+Cycle 10: ESP=0.9039, Mapping=[18, 19, 20, 21]
+  Start energy: -1.02625761
+  End energy: -1.02255417
+  Best energy: -1.03567797 (global iteration 410)
+  Improvement: 0.00942036
+
