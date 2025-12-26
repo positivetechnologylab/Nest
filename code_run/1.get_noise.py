@@ -112,9 +112,7 @@ def main():
         # Create output directory with today's date
         output_dir = create_output_directory()
         
-        # service = QiskitRuntimeService(channel="ibm_quantum", token="ec2d2688ea8d63ce3d5b79f61e4cc2303f89b13e6f79950b0e29a82e5eb89e51893219a9e59d7a0b0ee9675d92faf39242234ba6b53cf8d1389f3ec68380df24")
-        service = QiskitRuntimeService(channel="ibm_quantum", token="b7a8d2b19ae0139768a8e46e5a2ab05084ac08b32f7f5977f24bd639f54683c733bddf4a09a00abd178f84419b6244bbc882c1aa94c262f1f46015da74ce0e12")
-        
+        service = QiskitRuntimeService(channel="ibm_quantum", token="YOUR_TOKEN")        
         # Get and save noise models for each backend
         for backend_name in backend_names:
             try:
