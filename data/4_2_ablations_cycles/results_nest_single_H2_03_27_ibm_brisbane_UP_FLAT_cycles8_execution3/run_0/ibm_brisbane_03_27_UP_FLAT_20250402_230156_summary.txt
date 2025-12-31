@@ -1,0 +1,63 @@
+VQE Experiment Summary
+=====================
+
+Date: 03_27
+Backend: ibm_brisbane
+Schedule type: UP_FLAT
+Run time: 75.13 seconds
+
+Results
+-------
+Final energy: -1.00204891
+Best energy: -1.01871943 (iteration 401, cycle 8, iteration 23 in cycle)
+
+Cycle Information
+----------------
+Cycle 1: ESP=0.7018, Mapping=[20, 33, 22, 21]
+  Start energy: -0.00860677
+  End energy: -0.40835900
+  Best energy: -0.46955452 (global iteration 52)
+  Improvement: 0.46094775
+
+Cycle 2: ESP=0.7837, Mapping=[47, 28, 35, 46]
+  Start energy: -0.22289925
+  End energy: -0.40106428
+  Best energy: -0.41996083 (global iteration 88)
+  Improvement: 0.19706158
+
+Cycle 3: ESP=0.8673, Mapping=[120, 121, 119, 118]
+  Start energy: -0.34525762
+  End energy: -0.53423207
+  Best energy: -0.53904288 (global iteration 158)
+  Improvement: 0.19378526
+
+Cycle 4: ESP=0.9056, Mapping=[116, 115, 117, 118]
+  Start energy: -0.53817592
+  End energy: -0.57556424
+  Best energy: -0.58409017 (global iteration 215)
+  Improvement: 0.04591425
+
+Cycle 5: ESP=0.9177, Mapping=[116, 117, 118, 119]
+  Start energy: -0.42092550
+  End energy: -0.81090733
+  Best energy: -0.83361232 (global iteration 269)
+  Improvement: 0.41268682
+
+Cycle 6: ESP=0.9229, Mapping=[115, 116, 117, 118]
+  Start energy: -0.81212763
+  End energy: -0.96777682
+  Best energy: -0.97793240 (global iteration 315)
+  Improvement: 0.16580477
+
+Cycle 7: ESP=0.9177, Mapping=[116, 117, 118, 119]
+  Start energy: -0.95228440
+  End energy: -0.98936507
+  Best energy: -1.00100544 (global iteration 372)
+  Improvement: 0.04872104
+
+Cycle 8: ESP=0.9229, Mapping=[115, 116, 117, 118]
+  Start energy: -0.99904817
+  End energy: -1.00204891
+  Best energy: -1.01871943 (global iteration 401)
+  Improvement: 0.01967126
+

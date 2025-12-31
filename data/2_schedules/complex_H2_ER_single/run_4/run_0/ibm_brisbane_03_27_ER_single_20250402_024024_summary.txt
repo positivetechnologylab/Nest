@@ -1,0 +1,51 @@
+VQE Experiment Summary
+=====================
+
+Date: 03_27
+Backend: ibm_brisbane
+Schedule type: ER_single
+Run time: 65.09 seconds
+
+Results
+-------
+Final energy: -0.87206353
+Best energy: -1.01754300 (iteration 140, cycle 2, iteration 68 in cycle)
+
+Cycle Information
+----------------
+Cycle 1: ESP=0.9056, Mapping=[116, 115, 117, 118]
+  Start energy: -0.01623125
+  End energy: -0.88836764
+  Best energy: -0.96335717 (global iteration 66)
+  Improvement: 0.94712591
+
+Cycle 2: ESP=0.9002, Mapping=[114, 115, 116, 117]
+  Start energy: -0.97832606
+  End energy: -1.01723445
+  Best energy: -1.01754300 (global iteration 140)
+  Improvement: 0.03921694
+
+Cycle 3: ESP=0.7214, Mapping=[114, 115, 116, 109]
+  Start energy: -0.28598750
+  End energy: -0.51692428
+  Best energy: -0.54052570 (global iteration 201)
+  Improvement: 0.25453820
+
+Cycle 4: ESP=0.9002, Mapping=[114, 115, 116, 117]
+  Start energy: -0.43212100
+  End energy: -0.79633081
+  Best energy: -0.81391637 (global iteration 283)
+  Improvement: 0.38179537
+
+Cycle 5: ESP=0.8889, Mapping=[113, 114, 115, 116]
+  Start energy: -0.80849073
+  End energy: -0.98175974
+  Best energy: -0.98175974 (global iteration 360)
+  Improvement: 0.17326901
+
+Cycle 6: ESP=0.7919, Mapping=[12, 17, 11, 10]
+  Start energy: -0.86557506
+  End energy: -0.87206353
+  Best energy: -0.89264548 (global iteration 372)
+  Improvement: 0.02707042
+
